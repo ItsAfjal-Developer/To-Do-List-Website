@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>To-Do-List</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="icon" href="Image/list_tasks_22372.png">
+</head>
+
+<body>
+    <div class="wrapper">
+        <div class="todo-card">
+            <div class="top-bar">
+                <h1>🌿 Task Manager</h1>
+                <button id="themeToggle">🌙</button>
+            </div>
+
+            <div class="input-group">
+                <input type="text" id="taskInput" placeholder="What's next?" />
+                <input type="date" id="dueDateInput" />
+                <button onclick="addTask()">Add</button>
+            </div>
+
+            <div class="filter-group">
+                <button onclick="filterTasks('all')" class="filter-btn active">All</button>
+                <button onclick="filterTasks('active')" class="filter-btn">Active</button>
+                <button onclick="filterTasks('completed')" class="filter-btn">Completed</button>
+            </div>
+            <ul id="taskList"></ul>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
