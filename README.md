@@ -22,7 +22,7 @@
 
 ## 📸Screenshots
 
-Below is a Preview of **Netflix-Clone-Website**, Showcasing the Layout and Styling implemented Using pure HTML , CSS and Javascript. 
+Below is a Preview of **To-Do-List-Website**, Showcasing the Layout and Styling implemented Using pure HTML , CSS and Javascript. 
 The Design focuses on Clean Structure, Responsiveness and Modern Styling.
 
-<img src="netflix-img/images/Screenshot.png" alt="Netflix-Clone-Website" width="100%" />
+<img src="netflix-img/images/Screenshot.png" alt="To-Do-List-Website" width="100%" />
