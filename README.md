@@ -1,5 +1,5 @@
 # **To-Do-List-Website**
-- A Clean and Minimal Task Manager Web Application that allows you to keep track of your tasks Efficiently.
+A Clean and Minimal Task Manager Web Application that allows you to keep track of your tasks Efficiently.
   Users can add Tasks, Set Deadlines and Filter Tasks by their Status (All, Active, Completed).
   
 ## ✨ Features
